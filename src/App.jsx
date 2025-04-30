@@ -13,7 +13,7 @@ const App = () => {
     <div>
     <header>
       <div className="logo">
-        <img src="./src/assets/logo" alt="Bluestock Logo" />
+        <img src="../src/assets/logo.png" alt="Bluestock Logo" />
         BLUESTOCK
       </div>
 
@@ -54,56 +54,56 @@ const App = () => {
     <div class="cards">
       {/* <!-- Card template, repeat for each investor --> */}
       <div class="card">
-        <img src="./src/assets/1516825496993-removebg-preview.png" alt="Rakesh Jhunjhunwala" />
+        <img src="../src/assets/1516825496993-removebg-preview.png" alt="Rakesh Jhunjhunwala" />
         <h3>Rakesh Jhunjhunwala</h3>
         <p>He starting investment in the 90's<br/>His investment st...</p>
         <button>View Holdings</button>
       </div>
 
       <div class="card">
-        <img src="./src/assets/1624005931412-removebg-preview.png" alt="Anil Goel" />
+        <img src="../src/assets/1624005931412-removebg-preview.png" alt="Anil Goel" />
         <h3>Anil Goel</h3>
         <p>He starting investment in the 90's<br/>His investment st...</p>
         <button>View Holdings</button>
       </div>
 
       <div class="card">
-        <img src="./src/assets/Anil Goel.png" alt="Ashish Dhawan" />
+        <img src="../src/assets/Anil Goel.png" alt="Ashish Dhawan" />
         <h3>Ashish Dhawan</h3>
         <p>He starting investment in the 90's<br/>His investment st...</p>
         <button>View Holdings</button>
       </div>
 
       <div class="card">
-        <img src="./src/assets/Ashish Dhawan.png" alt="Ashish Kacholia" />
+        <img src="../src/assets/Ashish Dhawan.png" alt="Ashish Kacholia" />
         <h3>Ashish Kacholia</h3>
         <p>He starting investment in the 90's<br/>His investment st...</p>
         <button>View Holdings</button>
       </div>
 
       <div class="card">
-        <img src="./src/assets/Ashish Kacholia.png" alt="Dolly Rajeev Khanna" />
+        <img src="../src/assets/Ashish Kacholia.png" alt="Dolly Rajeev Khanna" />
         <h3>Dolly Rajeev Khanna</h3>
         <p>He starting investment in the 90's<br/>His investment st...</p>
         <button>View Holdings</button>
       </div>
 
       <div class="card">
-        <img src="./src/assets/Dolly Rajeev Khanna.png" alt="Hemendra Kothari" />
+        <img src="../src/assets/Dolly Rajeev Khanna.png" alt="Hemendra Kothari" />
         <h3>Hemendra Kothari</h3>
         <p>He starting investment in the 90's<br/>His investment st...</p>
         <button>View Holdings</button>
       </div>
 
       <div class="card">
-        <img src="./src/assets/Hemendra Kothari.png" alt="Nemish Shah" />
+        <img src="../src/assets/Hemendra Kothari.png" alt="Nemish Shah" />
         <h3>Nemish Shah</h3>
         <p>He starting investment in the 90's<br/>His investment st...</p>
         <button>View Holdings</button>
       </div>
 
       <div class="card">
-        <img src="./src/assets/Nemish Shah.png" alt="Porinju Veliyath" />
+        <img src="../src/assets/Nemish Shah.png" alt="Porinju Veliyath" />
         <h3>Porinju Veliyath</h3>
         <p>He starting investment in the 90's<br/>His investment st...</p>
         <button>View Holdings</button>
