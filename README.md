@@ -1,4 +1,4 @@
 # React + Vite
 
-It is a BlueStock Shark Investor Page 
+- It is a BlueStock Shark Investor Page 
 
